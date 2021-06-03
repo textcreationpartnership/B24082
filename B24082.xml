@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dutch prophesie, or, The astrological predictions of Johannes Velmont van Valkenburgh of Utrecht surveying the fate of the United Provinces for the ensuing year, 1674.</title>
+            <author>Valkenburgh, Johannes Velmont van.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24082</idno><idno type="EEBO-CITATION">18319816</idno>
+  <idno type="VID">206502</idno>
+  <idno type="EEBO-PROQUEST">2240860082</idno>
+  
+            <idno type="STC">Wing H1403</idno>
+            <idno type="OCLC">18319816</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24082)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206502)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dutch prophesie, or, The astrological predictions of Johannes Velmont van Valkenburgh of Utrecht surveying the fate of the United Provinces for the ensuing year, 1674.</title>
+                  <author>Valkenburgh, Johannes Velmont van.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.C. for John Newton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Netherlands --  History --  1648-1714 --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206502:1"/>
+            <p>THE Dutch Prophesie; OR THE <hi>ASTROLOGICAL PREDICTIONS</hi> OF JOHANNES VELMONT VAN VALKENBURGH O<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> UTRECHT, SURVEYING THE FATE OF THE UNITED PROVINCES For the Ensuing Year, 1674.</p>
+            <q>Finis alterius mali gradus est futuri.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. C.</hi> for <hi>John Newton.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206502:2"/>
+            <pb n="3" facs="tcp:206502:2"/>
+            <head>THE Dutch Prophesie, OR THE <hi>Astrological Predictions,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Do no sooner received your Command, but I immedi<g ref="char:EOLhyphen"/>ately Addressed my self to Gratifie your Curiosity in procuring an Abstract of the Predictions, or Astronomi<g ref="char:EOLhyphen"/>cal Judgments upon the en<g ref="char:EOLhyphen"/>suing Year, as they are deli<g ref="char:EOLhyphen"/>vered by the most Famous Mathematick of this Age' <hi>Johannes Helmont van Val<g ref="char:EOLhyphen"/>kenburgh of Ʋtretcht.</hi>
+            </p>
+            <p>He thus Determines upon his Scheme erected for the Spring Quarter. —Several Low Countries shall be sub<g ref="char:EOLhyphen"/>ject
+<pb n="4" facs="tcp:206502:3"/>to many and great Inundations, which shall break out with such a Violence, as to Overthrow many great Towns and very considerable Forts, Castles, and stately Fabricks. There shall also be a great Dearth amongst all sorts of Cat<g ref="char:EOLhyphen"/>tle both great and small, many of them Drownded and Starved, and also a great Rott amongst Sheep; caused through the Excessive moist Distemperature of the Season Mankind shall also be Afflicted with divers Sicknesses pro<g ref="char:EOLhyphen"/>ceeding from the abundance of Cold and Moist Humours, caused by Corruption of the Air and unwholsome Diet.</p>
+            <p>That the Commonalty in those Countries shall be much discontented and Weary of their Lives▪ through extream Po<g ref="char:EOLunhyphen"/>verty caused by their great Loss of Cattle, <hi>&amp;c.</hi> Which yet cannot Excuse them from Heavy Impositions and Taxes.</p>
+            <p>Upon the entrance of the <hi>Sun</hi> into <hi>Capricorn,</hi> there will happen great and terrible Tempests, and great Losses at Sea, to the great Endammagement of the Merchant. <hi>Mars</hi> being ready to pass out of <hi>Virgo</hi> into <hi>Segitarie,</hi> threatens Was and great Commotions to those Countries more im<g ref="char:EOLhyphen"/>mediately under his Influence with unfortunate success to those who live under the watry <hi>Trigon.</hi>
+            </p>
+            <p>
+               <hi>Saturn</hi> in the fourth house is also an Enemy to Peace, and seems wholly to invalidate the benev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lent Aspects of the other Planets, which do however strongly incline the endea<g ref="char:EOLhyphen"/>vour of some great Statesmen, to work an accommodation But the two Malevolent Planets do strongly oppose and ap<g ref="char:EOLhyphen"/>pear to have the sole Dominion in the affairs and Transacti<g ref="char:EOLhyphen"/>ons of those Countries more immediately subject to their malicious Influence, which shall cause men to desire War rather than Peace, and to take delight in Slaughter and Ex<g ref="char:EOLhyphen"/>ecution:
+<pb n="5" facs="tcp:206502:3"/>And to love Danger, Blood, Fire, and Confusi<g ref="char:EOLhyphen"/>on, and to Court even Death it self, in all its most Hor<g ref="char:EOLhyphen"/>rible shapes, till the minds of men shall be so hardned, that nothing shall seem unlawful to them; but they shall sport themselves in all kind of Cruelty and outrage; and being drunk with Bloud they shall rejoyce in all manner of Ruine and Destruction.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Sum of what <hi>Van Valkenburgh</hi>'s Predicti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Though upon each particular <hi>Scheme</hi> he does enlarg<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> himself into several Pages.</p>
+                  <p>We much sear he will prove too true a Prophet, for though the Generality here are very desirous of Peace▪ ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> we can see nothing but preparations for War, and the Military Spirits drive all before them. And those who prudently consider the face of <hi>Christendome,</hi> 'tis possible they may collect as infallible predictions without consult<g ref="char:EOLhyphen"/>ing the Stars.</p>
+                  <p>But this may satisfie you how ready I am to comply with your Desires, when ever you please to Oblige me with an Opportunity.</p>
+                  <p>Sir, Since we have begun to Trassique this way, I could wish you would send us over some Intelligence from your English <hi>Oracles,</hi> which I imagine may be less Ambiguous and more to the purpose; for I can assure you (under our <hi>Hogen M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gen</hi> Policy) they are not allow'd that License and Freedom as your Interpreters of the
+<pb n="6" facs="tcp:206502:4"/>Stars in <hi>England,</hi> who with such Confidence▪ Transcribe the Book of Fates, and never scruple to Publish the In<g ref="char:EOLhyphen"/>tregues of Heaven.</p>
+                  <p>Our Astrologers seem a little better Qualified to be admitted as Secretaries to the Stars, for they only gene<g ref="char:EOLhyphen"/>ral Terms hint at the High Decres of the Heavenly Ca<g ref="char:EOLhyphen"/>bal; though by a kind of mysterious <hi>Dilemma,</hi> they still hope to Entrap the Event.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206502:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
